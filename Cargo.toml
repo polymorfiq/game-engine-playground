@@ -1,0 +1,11 @@
+[package]
+name = "opengl-basic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dependencies.sdl2]
+version = "0.32.1"
+default-features = true
+features = []
